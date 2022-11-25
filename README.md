@@ -1,5 +1,6 @@
 - 👋 Yo !!!
-
+## Visitors
+![](https://komarev.com/ghpvc/?username=Yobro7292&color=green&style=for-the-badge)
 
 
 
@@ -10,10 +11,9 @@
 
 
 ## Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yobro7292)]
+![trophy](https://github-profile-trophy.vercel.app/?username=Yobro7292)
 
-## Visitors
-![](https://komarev.com/ghpvc/?username=Yobro7292&color=green&style=for-the-badge)
+
 
 ## Technologies that I used
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="77" height="77" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="77" height="77" /></div>
