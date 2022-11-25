@@ -12,8 +12,10 @@
 ## Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yobro7292)]
 
-## Analysis
+## Visitors
 ![](https://komarev.com/ghpvc/?username=Yobro7292&color=green&style=for-the-badge)
+
+## Analysis
 ![Metrics](/github-metrics.svg)
 ![Metrics-language](/metrics.plugin.languages.indepth.svg)
 
