@@ -11,12 +11,6 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="77" height="77" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="77" height="77" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="77" height="77" /></div>
 
 
-## Analysis
-![Metrics](/github-metrics.svg)
-![Metrics-language](/metrics.plugin.languages.indepth.svg)
 
 
-
-
-## Dev Card
 <a href="https://app.daily.dev/yogi_hariyani"><img src="https://api.daily.dev/devcards/650383d9e53e48119670b52235487cc3.png?r=mbn" width="400" alt="Yogi Hariyani Dev Card"/></a>
