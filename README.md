@@ -5,7 +5,7 @@
 
 <div style="width: 100%; display: flex; justify-items: center; align-items: center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=47&pause=1000&color=F7E000&center=true&vCenter=true&width=580&height=100&lines=Hey%2C+This+is+Yogi+Hariyani;A+Quick+Learner...;Passionate+Developer...;I+have+been+working+for+4%2B+years)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=37&pause=1000&color=F7E000&center=true&vCenter=true&width=580&height=100&lines=Hey%2C+This+is+Yogi+Hariyani;A+Quick+Learner...;Passionate+Developer...;I+have+been+working+for+4%2B+years)](https://git.io/typing-svg)
 
 </div>
 
