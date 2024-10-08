@@ -1,4 +1,4 @@
-![👋 Hey, This is Yogi Hariyani](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Yogi Hariyani](https://github.com/Yobro7292/Yobro7292/blob/main/yogi_banner_shrink.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yobro7292&label=Profile%20views&color=0e75b6&style=flat)
 <br />
